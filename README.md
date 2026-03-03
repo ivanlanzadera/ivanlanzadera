@@ -37,6 +37,44 @@ Me gusta trabajar en el desarrollo de aplicaciones backend y APIs, y actualmente
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=8" />
 </p>
+
+<br>
+<h2> 🚀 Proyectos Destacados </h2>
+
+<h3>📌 FinTrack — API REST de gestión financiera</h3>
+<p>
+Backend API desarrollada en Laravel para la gestión de finanzas personales.  
+Incluye autenticación con Sanctum, control de acceso a paneles, presupuestos, transacciones y validación de reglas de negocio.
+</p>
+
+<ul>
+  <li>🔐 Autenticación basada en tokens (Sanctum)</li>
+  <li>🗄️ Modelo relacional con relaciones 1:N y N:M</li>
+  <li>📊 Lógica de negocio financiera (actualización automática de saldo)</li>
+  <li>🧪 Seeders y Factories para generación de datos de prueba</li>
+  <li>🛡️ Validación de requests y control de acceso por usuario</li>
+</ul>
+
+👉 <a href="https://github.com/ivanlanzadera/FinTrack" target="_blank">Ver repositorio</a>
+
+<br>
+
+<h3>🎮 Guardianes de la Galaxia — Juego móvil arcade</h3>
+<p>
+Juego de disparos desarrollado con Ionic, Angular y Phaser.  
+El jugador controla una nave espacial que debe esquivar y destruir meteoritos mientras acumula la mayor puntuación posible.
+</p>
+
+<ul>
+  <li>🚀 Motor de videojuegos Phaser (gestión de escenas)</li>
+  <li>📱 Aplicación híbrida con Ionic + Angular</li>
+  <li>💾 Persistencia de puntuaciones con localStorage</li>
+  <li>🎵 Gestión manual de audio y transiciones entre escenas</li>
+  <li>🧩 Diseño modular y escalable</li>
+</ul>
+
+👉 <a href="https://github.com/ivanlanzadera/guardianesdelagalaxia" target="_blank">Ver repositorio</a>
+
 <br>
 <h2> 📚 Actualmente aprendiendo </h2>
 <ul>
