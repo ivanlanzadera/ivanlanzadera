@@ -41,39 +41,48 @@ Me gusta trabajar en el desarrollo de aplicaciones backend y APIs, y actualmente
 <br>
 <h2> 🚀 Proyectos Destacados </h2>
 
-<h3>📌 FinTrack — API REST de gestión financiera</h3>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://learn.microsoft.com/es-es/dynamics365/business-central/media/finance/financial-overview-app-page.png" />
+
+<h3 align="center">📌 FinTrack</h3>
+
 <p>
-Backend API desarrollada en Laravel para la gestión de finanzas personales.  
-Incluye autenticación con Sanctum, control de acceso a paneles, presupuestos, transacciones y validación de reglas de negocio.
+API REST desarrollada en Laravel para la gestión de finanzas personales, con autenticación mediante Sanctum, control de acceso a paneles y lógica de negocio financiera.
 </p>
 
-<ul>
-  <li>🔐 Autenticación basada en tokens (Sanctum)</li>
-  <li>🗄️ Modelo relacional con relaciones 1:N y N:M</li>
-  <li>📊 Lógica de negocio financiera (actualización automática de saldo)</li>
-  <li>🧪 Seeders y Factories para generación de datos de prueba</li>
-  <li>🛡️ Validación de requests y control de acceso por usuario</li>
-</ul>
-
-👉 <a href="https://github.com/ivanlanzadera/FinTrack" target="_blank">Ver repositorio</a>
-
-<br>
-
-<h3>🎮 Guardianes de la Galaxia — Juego móvil arcade</h3>
-<p>
-Juego de disparos desarrollado con Ionic, Angular y Phaser.  
-El jugador controla una nave espacial que debe esquivar y destruir meteoritos mientras acumula la mayor puntuación posible.
+<p align="center">
+  <a href="https://github.com/ivanlanzadera/FinTrack">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<ul>
-  <li>🚀 Motor de videojuegos Phaser (gestión de escenas)</li>
-  <li>📱 Aplicación híbrida con Ionic + Angular</li>
-  <li>💾 Persistencia de puntuaciones con localStorage</li>
-  <li>🎵 Gestión manual de audio y transiciones entre escenas</li>
-  <li>🧩 Diseño modular y escalable</li>
-</ul>
+</td>
 
-👉 <a href="https://github.com/ivanlanzadera/guardianesdelagalaxia" target="_blank">Ver repositorio</a>
+<td width="50%" valign="top">
+
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309140/ss_f5dbcf633091aedf72326246e78884f32032e66c.1920x1080.jpg?t=1743065992" width="100%" />
+
+<h3 align="center">🎮 Guardianes de la Galaxia</h3>
+
+<p>
+Juego arcade desarrollado con Ionic, Angular y Phaser. Incluye gestión de escenas, físicas básicas, persistencia de puntuaciones y diseño modular.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ivanlanzadera/guardianesdelagalaxia">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 <h2> 📚 Actualmente aprendiendo </h2>
